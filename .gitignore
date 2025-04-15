@@ -1,0 +1,8 @@
+# Ignore PyCharm cache directory
+.idea/
+
+# Ignore custom data directory and output results
+cf_data/
+results/
+# saved-features/
+# saved-models/
